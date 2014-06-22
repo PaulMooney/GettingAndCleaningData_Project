@@ -23,5 +23,14 @@ Place the UCI HAR Dataset folder and its associated data into your working direc
 - WD\UCI HAR Dataset\train\X_train.txt
 - WD\UCI HAR Dataset\train\y_train.txt
 
+###Step 3
+Run the run_analysis.R script.
+
+###Result
+A new comma separated file named output.csv will be created in your working directory which will
+contain the tidy data set holding the means by subject and activity of all mean and standard deviation
+in the original data sets.
+
+For details of how the script accomplishes its task please refer to the CodeBook.md markdown file.
 
 
