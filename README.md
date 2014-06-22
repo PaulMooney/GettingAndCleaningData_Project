@@ -14,14 +14,14 @@ Place the UCI HAR Dataset folder and its associated data into your working direc
 
 ####At this point you will have the following (WD means working directory):
 
--WD\UCI HAR Dataset\features.txt
--WD\UCI HAR Dataset\activity_labels.txt
--WD\UCI HAR Dataset\test\subject_test.txt
--WD\UCI HAR Dataset\test\X_test.txt
--WD\UCI HAR Dataset\test\y_test.txt
--WD\UCI HAR Dataset\train\subject_train.txt
--WD\UCI HAR Dataset\train\X_train.txt
--WD\UCI HAR Dataset\train\y_train.txt
+- WD\UCI HAR Dataset\features.txt
+- WD\UCI HAR Dataset\activity_labels.txt
+- WD\UCI HAR Dataset\test\subject_test.txt
+- WD\UCI HAR Dataset\test\X_test.txt
+- WD\UCI HAR Dataset\test\y_test.txt
+- WD\UCI HAR Dataset\train\subject_train.txt
+- WD\UCI HAR Dataset\train\X_train.txt
+- WD\UCI HAR Dataset\train\y_train.txt
 
 
 
