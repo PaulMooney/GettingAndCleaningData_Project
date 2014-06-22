@@ -85,6 +85,6 @@ full.all <- full.all[,idx.col.names.mean.std]
 
 full.mean <- aggregate(full.all[,-c(1,2)], by=list(subject=full.all[,1],activity=full.all[,2]), FUN=mean)
 full.mean <- full.mean[order(full.mean$subject),]
-output.fn <- file.path(getwd(), "output.csv", fsep = .Platform$file.sep)
+output.fn <- file.path(getwd(), "output.txt", fsep = .Platform$file.sep)
 write.table(full.mean, output.fn,col.names = TRUE, row.names = FALSE, sep = ",")
 

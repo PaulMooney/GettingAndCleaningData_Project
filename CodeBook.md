@@ -84,6 +84,6 @@ Note as the variables (other than subject ans activity) have had "MO-" appended 
 can easily determine the meaning of the new variables.
 
 #Save the final data frame to file.
-Finally the script saves the full.mean data frame to the "output.csv" file in the working directory.
+Finally the script saves the full.mean data frame to the "output.txt" file in the working directory.
 
 

@@ -27,7 +27,7 @@ Place the UCI HAR Dataset folder and its associated data into your working direc
 Run the run_analysis.R script.
 
 ###Result
-A new comma separated file named output.csv will be created in your working directory which will
+A new comma separated file named output.txt will be created in your working directory which will
 contain the tidy data set holding the means by subject and activity of all mean and standard deviation
 in the original data sets.
 
